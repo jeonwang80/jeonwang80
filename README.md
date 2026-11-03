@@ -10,16 +10,6 @@
 **Manufacturing & Systems**
 - Smart Factory, MES, SCADA, Industrial Automation & Standard Time Analysis
 
-**Frontend & Backend**
-- React, JavaScript / TypeScript, HTML5 / CSS3
-- Python, Node.js, REST APIs, Supabase
-
-**Data & Analytics**
-- MS SQL Server, PostgreSQL, Pandas, Data Visualization (ECharts, Tabulator)
-
-**Dev Tools & Workflow**
-- Git, GitHub, Vercel, Cursor, Docker
-
 ---
 
 ### 🚀 What I'm Focused On
