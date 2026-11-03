@@ -1,25 +1,17 @@
 # Hi there, I'm Shawn (jeonwang80) 👋
 
-> **Bridging Manufacturing Operations & Modern Tech**  
-> 제조 현장의 도메인 지식과 최신 웹·데이터 기술을 연결하여 실용적인 가치를 만듭니다.
+# Hi there, I'm jeonwang80 👋
 
----
-
-### 🛠 Tech Stack & Core Competencies
-
-**Manufacturing & Systems**
-- Smart Factory, MES, SCADA, Industrial Automation & Standard Time Analysis
-
----
-
-### 🚀 What I'm Focused On
-
-- 🏭 **Smart Factory & MES Solutions**: 제조 공정 효율화 및 표준시간·공정 밸런싱 최적화
-- 🌐 **Full-Stack Prototyping**: 빠른 아이디어 실현을 위한 웹 서비스 및 대시보드 구축
-- 🤖 **Data & AI Integration**: 도메인 데이터 기반 파이프라인 및 업무 자동화 툴 개발
-
----
-
+```text
+                  ▄▄█████▄
+             ▄▄███████████
+        ▄▄████████████████
+   ▄▄█████████████████████
+  ████████████████████████
+   ▀▀█████████████████████
+        ▀▀████████████████
+             ▀▀███████████
+                  ▀▀█████▀
 ### 📊 GitHub Stats
 
 <p align="left">
